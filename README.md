@@ -1,3 +1,15 @@
+# Github user finder
+
+## about this project
+
+project from john smilga's course, learned a lot of things, like multiples fetchs, only show data when all fetchs had finished, Manipulating a lot of data to fit into Charts . Authentication with auth0 , privates routes and so on ...
+
+## Demonstration
+
+you see a demo here : [liveDemo](https://github-hub-user.netlify.app/);
+
+![image](https://user-images.githubusercontent.com/62390902/113229806-10274900-926e-11eb-92bb-e7361f1a34b5.png)
+
 ## Starter Project
 
 - css provided (global styles, styled components)
